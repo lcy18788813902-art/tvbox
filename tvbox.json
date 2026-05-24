@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "key": "mdzy",
+      "name": "魔都资源",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [
+    {
+      "name": "默认解析",
+      "type": 1,
+      "url": "https://jiexi.modujx01.com/?url="
+    }
+  ],
+  "lives": [],
+  "flags": []
+}
